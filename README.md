@@ -4,7 +4,9 @@ A sophisticated red-teaming agent built with LangGraph and Ollama to probe OpenA
 
 ## ⚡ Hackathon-Focused Updates
 
-**This system has been specifically updated for the OpenAI Open Model Hackathon and here I'm using OpenAI GPT-OSS-20B .** Key improvements include:
+**This system has been specifically updated for the OpenAI Open Model Hackathon and here I'm using OpenAI GPT-OSS-20B .** 
+
+Key improvements include:
 
 - **Specific Vulnerabilities**: Focused on the 9 key areas
 - **Target Model Analysis**: All analysis explicitly focuses on target model behavior only  
