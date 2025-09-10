@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- OpenAI for the GPT-OSS-20B model and red-teaming challenge
+- OpenAI for the "OpenAI Open Model Hackathon" and also for the GPT-OSS-20B model.
 - LangGraph team for the workflow framework
 - Ollama team for local model serving
 - The AI safety research community for inspiration and guidance
